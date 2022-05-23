@@ -1,0 +1,16 @@
+.header1 {
+    text-align: center;
+}
+
+.header2 {
+    color: rgb(133, 133, 133);
+}
+
+.form {
+ display: grid;
+ margin:50px;
+}
+
+.btn {
+    background-color: honeydew;
+}
